@@ -1,0 +1,5 @@
+(executable
+ (name wikiparse)
+ (libraries xmlm))
+
+(ocamllex wikitext)
