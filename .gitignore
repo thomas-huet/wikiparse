@@ -2,3 +2,5 @@ _build/
 .merlin
 dune-project
 *.bz2
+*.mm
+*.mm.index
